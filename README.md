@@ -1,5 +1,11 @@
 # Multi-Agent-Financial-Research-Assitant
-This project aims to build a multi-agent architecture for financial investment research and anlysis
+This project aims to build a multi-agent architecture for financial investment research and anlysis. 
+The website used to get the relevant articles link is Newsapi website. 
+The first the user gives the query to the news api. 
+For Example
+ALL Stocks about gold prices. 
+The the news api returns the list of the articles with their links, and short description. 
+
 # We will be utilizing CrewAI 
 -------------------------------------------
 #Project Architecture: 
